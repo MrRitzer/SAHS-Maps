@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Description
 
 One of the first projects I ever worked on. The software is a shortest path mapping software created using the Angular Framework. It is very simple but effectively shows how a shortest path algorithm could be implemented in conjunction with a map to navigate buildings.
+
+[SAHS-Maps](https://fedorrob000.github.io/SAHS-Maps/)
